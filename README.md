@@ -23,7 +23,7 @@ ONT_pipeline_1.py - Script that has been used in various stages of genome analys
 
 ONT_pipeline_2.py - Medaka polishing step parallelization script
 
-ONT_prepare_data.py - Helper script used for alignemnt of ONT reads to fish genomes - later replaced by ONT_pipeline_1 script
+ONT_prepare_data.py - Helper script used for alignment of ONT reads to fish genomes - later replaced by ONT_pipeline_1 script
 
 ONT_uniprot_annotation.py - Script used to map Uniprot and GO based annotations onto assembled genomes with tagged methylation sites
 
