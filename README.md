@@ -11,7 +11,7 @@ Gene_CpG_all.ipynb - CpG analysis of Myxozoa genome assemblies including KDE and
 
 KDE_method.ipynb - Jupyter notebook that has been used to visualize observed bimodal distribution of CpG O/E values, includes KDE and Venn diagrams of GO distribution according to methylated/unmethylated parts of the genome
 
-ONT_Silva_taxonomy.py - Helper script used in the process of analizing 18S rRNA content of samples based on SILVA ribosomal RNA database (locally downloaded)
+ONT_Silva_taxonomy.py - Helper script used in the process of analyzing 18S rRNA content of samples based on SILVA ribosomal RNA database (locally downloaded)
 
 ONT_helper.py - Helper script that has been used for ONT long read assessment prior to assembly. Long reads have been searched using Blastn and Diamond blast and the resulting output has been analyzed for the presence of genes that exhibit homology to known Myxozoa genes
 
@@ -21,7 +21,7 @@ ONT_myxozoa_pangenome.py - Named Entity Recognition based analysis of Myxozoa ge
 
 ONT_pipeline_1.py - Script that has been used in various stages of genome analyses: assembling of fish filtered reads, parallelization of Medaka polishing (additional round) of Fyle genome assemblies, mapping of methylation calling results obtained by nanopolish onto assembled genomes and preparing data for BlobTools additional round of filtering
 
-ONT_pipeline_2.py - Medaka ploshing step parallelization script
+ONT_pipeline_2.py - Medaka polishing step parallelization script
 
 ONT_prepare_data.py - Helper script used for alignemnt of ONT reads to fish genomes - later replaced by ONT_pipeline_1 script
 
